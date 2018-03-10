@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 First Person commit
 Second Person commit
+=======
+This is first commit!
+>>>>>>> parent of 4cbabb4... modify first commit
